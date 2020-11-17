@@ -1,4 +1,4 @@
-# clothing-hut
+# Clothing-hut
 
 ## Online Shopping site with payment System
 
